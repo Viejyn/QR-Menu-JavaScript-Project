@@ -6,7 +6,7 @@
 
 ### `Deploy`
 
-
+https://qrmenu-javascript-project.netlify.app/
 
 ### `Screen`
 
